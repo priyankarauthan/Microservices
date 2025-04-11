@@ -15,3 +15,5 @@ Reduces downtime and impact on users
 
 Safer rollback and testing
 
+## SAGA & CQRS
+
